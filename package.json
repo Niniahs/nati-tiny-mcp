@@ -1,0 +1,12 @@
+{
+  "name": "nati-tiny-mcp",
+  "version": "1.0.0",
+  "main": "tiny_server.js",
+  "scripts": {
+    "start": "node tiny_server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
